@@ -360,7 +360,13 @@ body {
     height: 300px;
     float: left;
     margin: 50px;
-    background-color: #f00ff0;
+}
+
+.center slider {
+    width: 1000px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #main3 {
